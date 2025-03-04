@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "3D Vision and Modeling Challenges in eCommerce"
-title: "3D Vision and Modeling Challenges in eCommerce"
+urltitle:  "Visual Text Generation and Text Image Processing"
+title: "Visual Text Generation and Text Image Processing"
 categories: eccv, workshop, computer vision, computer graphics, deep learning, shape understanding, eCommerce, retail, 3D reconstruction, human modeling, language and vision
 permalink: /
 favicon: /static/img/ico/favicon.png
@@ -14,8 +14,8 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h2>Second Workshop on</h2></center>
-    <center><h1>3D Vision and Modeling Challenges in eCommerce</h1></center>
+    <center><h2>Workshop on</h2></center>
+    <center><h1>Visual Text Generation and Text Image Processing</h1></center>
     <center><h2>ICDAR 2025 Workshop</h2></center>
     <center><span style="font-weight:400;">Sep 29, 2024 @ Milan, Italy</span></center>
     <center><span style="font-weight:400;">Room Brown 2, MiCo Milano Convention Center</span></center>
