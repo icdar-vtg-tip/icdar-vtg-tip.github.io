@@ -51,7 +51,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
       This workshop aims to bring together researchers working on 3D computer vision and graphics for eCommerce, with a focus on the three topics: 
       (1) 3D shape/scene understanding and generation e.g. semantic segmentation, affordance and motion, multi-view reconstruction; 
       (2) Digital human and fashion e.g. virtual try-ons and personalized fashion recommendation;
-      (3) Foundation-model-assisted reasoning e.g. shape/scene synthesis from texts, language grounding in 3D models and diffusion-based 3D generative models. We successfully hosted the the first 3DV in eCommerce workshop at ICCV 2023</a> which was very well-received and inspiring to the audience. In this second workshop, we are inviting a fully new line of speakers including 3 keynote presentations from academia and 3 talks from industry experts. 
+      (3) Foundation-model-assisted reasoning e.g. shape/scene synthesis from texts, language grounding in 3D models and diffusion-based 3D generative models. We successfully hosted the <a href="/iccv2023/">the first 3DV in eCommerce workshop at ICCV 2023</a> which was very well-received and inspiring to the audience. In this second workshop, we are inviting a fully new line of speakers including 3 keynote presentations from academia and 3 talks from industry experts. 
      <!--This workshop aims to bring together researchers working on generative models of 3D shapes and scenes with researchers and practitioners who use these generative models in a variety of research areas. For our purposes, we define "generative model" to include methods that synthesize geometry unconditionally as well as from sensory inputs (e.g. images), language, or other high-level specifications. Vision tasks that can benefit from such models include scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, question answering, and more.-->
     </p>
   </div>
@@ -551,6 +551,12 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 </div> -->
 
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Prior workshops in this series</h2>
+    <a href="iccv2023">ICCV 2023: 3D Vision and Modeling Challenges in eCommerce</a><br/>
+  </div>
+</div>
 
 <br/>
 <br/>
