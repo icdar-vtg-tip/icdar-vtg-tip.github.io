@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "Visual Text Generation and Text Image Processing"
-title: "Visual Text Generation and Text Image Processing"
-categories: icdar, workshop, computer vision, computer graphics, deep learning, image generation, image processing
+urltitle:  "3D Vision and Modeling Challenges in eCommerce"
+title: "3D Vision and Modeling Challenges in eCommerce"
+categories: eccv, workshop, computer vision, computer graphics, deep learning, shape understanding, eCommerce, retail, 3D reconstruction, human modeling, language and vision
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
