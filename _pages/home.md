@@ -2,13 +2,13 @@
 layout: project
 urltitle:  "Visual Text Generation and Text Image Processing"
 title: "Visual Text Generation and Text Image Processing"
-categories: eccv, workshop, computer vision, computer graphics, deep learning, shape understanding, eCommerce, retail, 3D reconstruction, human modeling, language and vision
+categories: icdar, workshop, computer vision, computer graphics, deep learning
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
 paper: true
 acknowledgements: ""
-description: "Website for the Workshop on 3D Vision and Modeling Challenges in eCommerce at ECCV 2024"
+description: "Website for the Workshop on Visual Text Generation and Text Image Processing at ICDAR 2025"
 ---
 
 <br>
@@ -17,8 +17,7 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
     <center><h2>Workshop on</h2></center>
     <center><h1>Visual Text Generation and Text Image Processing</h1></center>
     <center><h2>ICDAR 2025 Workshop</h2></center>
-    <center><span style="font-weight:400;">Sep 29, 2024 @ Milan, Italy</span></center>
-    <center><span style="font-weight:400;">Room Brown 2, MiCo Milano Convention Center</span></center>
+    <center><span style="font-weight:400;">September 16-21, 2025 @ Wuhan, Hubei, China</span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br />
   </div>
