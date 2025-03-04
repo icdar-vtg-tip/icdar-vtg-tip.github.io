@@ -1,1 +1,4 @@
-Hello World
+---
+title: home
+redirect_to: /home
+---
