@@ -1,4 +1,1 @@
----
-title: home
-redirect_to: /home
----
+Hello World
