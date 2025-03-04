@@ -24,7 +24,6 @@ description: "Website for the Workshop on 3D Vision and Modeling Challenges in e
   </div>
 </div>
 
-
 <hr>
 
 <!--<b>📢 Calling all researchers and enthusiasts! 🚀 Join our thrilling fine-grained 3D part labeling challenge built on the Amazon Berkeley Objects (ABO) Dataset: <a href="https://eval.ai/web/challenges/challenge-page/2027/overview" target="_blank">https://eval.ai/web/challenges/challenge-page/2027/overview</a>.</b>-->
