@@ -372,7 +372,6 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   <div class="col-xs-12">
     <h2>Workshop Chairs</h2>
     <ul class="list-unstyled">
-    <ul class="list-unstyled">
     <li class="task-point">AAAA, University of BBBB, CCCC </li> 
     <li class="task-point">AAAA, University of BBBB, CCCC </li> 
     <li class="task-point">AAAA, University of BBBB, CCCC </li> 
@@ -395,7 +394,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
     <li class="task-point">AAAA, University of BBBB, CCCC </li> 
     </ul>
   </div>
-</div>
+</div><br>
 
 
 
@@ -403,7 +402,9 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   <div class="col-xs-12">
     <h2>Short CV of the Workshop Chairs</h2>
   </div>
-</div><br>
+</div>
+<br>
+<br>
 
 
 <div class="row">
@@ -413,7 +414,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
       <b><a href="https://people.eecs.berkeley.edu/~kanazawa/">AAAAA</a></b> Assistant Professor at UC Berkeley. Her research focuses on the perception of the dynamic 3D world behind everyday photographs and video. Her lab is interested in developing methods that can learn a structured model of the world from visual observations. She also advises Luma AI.
     </p>
   </div>
-</div><br>
+</div><br><br>
 
 
 
@@ -428,7 +429,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 </div><br>
 
 
-
+<br>
 
 
 <!-- <div class="row text-center">
@@ -544,7 +545,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 
 
-
+<br>
 
 
 
