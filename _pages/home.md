@@ -398,7 +398,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 
 
-<div class="row" id="speakers">
+<div class="row">
   <div class="col-xs-12">
     <h2>Short CV of the Workshop Chairs</h2>
   </div>
