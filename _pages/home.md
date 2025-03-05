@@ -368,7 +368,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 <div class="row" id="commitee">
   <div class="col-xs-12">
-    <h2>Workshop Chairs</h2>
+    <h2>Committee</h2>
   </div>
 </div>
 
