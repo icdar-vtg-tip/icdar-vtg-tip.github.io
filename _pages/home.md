@@ -133,7 +133,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12">
     <ol style="line-height: 1.4; margin-top: 15px;">
       <li style="margin-bottom: 8px;">GANs-based and Diffusion-based models for text image synthesis.</li>
@@ -149,8 +149,49 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
       <li style="margin-bottom: 0;">Tampered text detection.</li>
     </ol>
   </div>
-</div>
+</div><br> -->
 
+<div class="row">
+  <div class="col-xs-12">
+    <ul class="list-unstyled" style="line-height: 1.4; margin-top: 15px;">
+      <li class="task-point">▸ GANs-based and Diffusion-based models for text image synthesis</li>
+      <li class="task-point">▸ Layout-aware document image generation</li>
+      <li class="task-point">▸ Real-synthetic domain gap analysis</li>
+      <li class="task-point">▸ Text generation model benchmarking</li>
+      <li class="task-point">▸ Image text removal, editing, style transfer</li>
+      <li class="task-point">▸ Shadow, ink, and watermark removal of text image</li>
+      <li class="task-point">▸ Illumination correction, deblurring, and binarization of text image</li>
+      <li class="task-point">▸ Text image super-resolution</li>
+      <li class="task-point">▸ Document image dewarping</li>
+      <li class="task-point">▸ Text segmentation</li>
+      <li class="task-point">▸ Tampered text detection</li>
+    </ul>
+  </div>
+</div><br>
+
+<style>
+.task-point {
+  margin-bottom: 10px;
+  padding-left: 20px;
+  position: relative;
+}
+.task-point:before {
+  content: "▸";
+  color: #2c7be5;
+  position: absolute;
+  left: 0;
+  font-size: 1.1em;
+}
+</style>
+
+
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Submission</h2>
+    <p>The workshop is open to original papers of theoretical or practical nature. Papers should be formatted to follow the instructions in ICDAR webpage https://www.icdar2025.com/home. Papers are limited to 15 pages (not including references). This workshop will follow a double-blind review process. Authors should not include their names and affiliations anywhere in the manuscript. Authors should also ensure that their identity is not revealed in directly by citing their previous work in the third person and omitting acknowledgments until the camera-ready version. Papers have to be submitted via the workshop's CMT submission page. The submission link will be announced soon.<br> At least one author of each accepted paper must register for the workshop, in order to present the paper. For further instructions, please refer to the ICDAR 2025 webpage.</p>
+  </div>
+</div><br>
 
 
 
@@ -287,7 +328,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 <div class="row" id="commitee">
   <div class="col-xs-12">
-    <h2>Organizers</h2>
+    <h2>Workshop Chairs</h2>
   </div>
 </div>
 
