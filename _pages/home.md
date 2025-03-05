@@ -532,7 +532,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   </div>
 </div> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12">
     <h2>Prior workshops in this series</h2>
     <a href="iccv2023">ICCV 2023: 3D Vision and Modeling Challenges in eCommerce</a><br/>
@@ -540,9 +540,9 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 </div>
 
 <br/>
-<br/>
+<br/> -->
 
-{% if page.acknowledgements %}
+<!-- {% if page.acknowledgements %}
 <div class="row">
   <div class="col-xs-12">
     <h2>Acknowledgments</h2>
@@ -556,9 +556,9 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
     </p>
   </div>
 </div>
-{% endif %}
+{% endif %} -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12">
     <h2>Reference</h2>
   </div>
@@ -590,8 +590,30 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
       [11] Pu Li, Weize Quan, Jianwei Guo, Dong-Ming Yan, Layout-aware Single-image Document Flattening, ACM TOG, 2023.
     </p>
   </div>
-</div>
+</div> -->
 
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Reference</h2>
+  </div>
+</div>
+<a name="/reference"></a>
+<div class="row">
+  <div class="col-xs-12" style="line-height: 1.2;">
+    <div style="margin-bottom: 8px;">[1] Jingye Chen, Yupan Huang, Tengchao Lv, Lei Cui, Qifeng Chen, Furu Wei, TextDiffuser: Diffusion Models as Text Painters, NeurIPS, 2023.</div>
+    <div style="margin-bottom: 8px;">[2] Zhenhang Li, Yan Shu, Weichao Zeng, Dongbao Yang, Yu Zhou, First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending, ECAI, 2024.</div>
+    <div style="margin-bottom: 8px;">[3] Yuxiang Tuo, Wangmeng Xiang, Jun-Yan He, Yifeng Geng, Xuansong Xie, AnyText: Multilingual Visual Text Generation And Editing, ICLR, 2024.</div>
+    <div style="margin-bottom: 8px;">[4] Weichao Zeng, Yan Shu, Zhenhang Li, Dongbao Yang, Yu Zhou, TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control, NeurIPS, 2024.</div>
+    <div style="margin-bottom: 8px;">[5] Yan Shu, Weichao Zeng, Zhenhang Li, Fangmin Zhao, Yu Zhou, Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing, arXiv, 2024.</div>
+    <div style="margin-bottom: 8px;">[6] Yuzhe Zhang, Jiawei Zhang, Hao Li, Zhouxia Wang, Luwei Hou, Dongqing Zou, Liheng Bian, Diffusion-based Blind Text Image Super-Resolution, CVPR, 2024.</div>
+    <div style="margin-bottom: 8px;">[7] Xiaoming Li, Wangmeng Zuo, Chen Change Loy, Learning Generative Structure Prior for Blind Text Image Super-resolution, CVPR, 2023.</div>
+    <div style="margin-bottom: 8px;">[8] Yonghui Wang, Wengang Zhou, Zhenbo Lu, Houqiang Li, UDoc-GAN: Unpaired Document Illumination Correction with Background Light Prior, ACM MM, 2022.</div>
+    <div style="margin-bottom: 8px;">[9] Ling Zhang, Yinghao He, Qing Zhang, Zheng Liu, Xiaolong Zhang, Chunxia Xiao, Document Image Shadow Removal Guided by Color-Aware Background, CVPR, 2023.</div>
+    <div style="margin-bottom: 8px;">[10] Floor Verhoeven, Tanguy Magne, Olga Sorkine-Hornung, UVDoc: Neural Grid-based Document Unwarping, SIGGRAPH, 2023.</div>
+    <div style="margin-bottom: 0;">[11] Pu Li, Weize Quan, Jianwei Guo, Dong-Ming Yan, Layout-aware Single-image Document Flattening, ACM TOG, 2023.</div>
+  </div>
+</div>
 
 
 <br>
