@@ -60,7 +60,12 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 </div> <br>
 
 
-<div class="row" id="schedule">
+
+
+
+
+
+<div class="row">
   <div class="col-xs-12">
     <h2>Schedule</h2>
     <p>All times in Beijing Time (UTC+08:00)</p>
@@ -71,6 +76,11 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
+        <tr>
+          <td>Time</td>
+          <td>Events</td>
+          <td></td>
+        </tr>
         <tr>
           <td>13:50- 14:00</td>
           <td>Opening Remarks</td>
@@ -114,102 +124,16 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 </div>
 
 
-<div class="row" id="speakers">
+
+
+<div class="row" id="call">
   <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
+    <h2>Call for Papers</h2>
+    <p>Acceptable submission topics may include but are not limited to:</p>
   </div>
-</div><br>
+</div>
 
-<!-- <div class="row">
-  <div class="col-md-12">
-    <a href="https://people.mpi-inf.mpg.de/~theobalt/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Christian_Theobalt_stehend.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://people.mpi-inf.mpg.de/~theobalt/">Christian Theobalt</a></b> Professor and the Director of the Visual Computing and AI Department at Max Planck Institute for Informatics. He works in computer vision and graphics, with a focus on 3D shape understanding. His long
-      term vision to develop entirely new ways to capture, represent, synthesize and
-      simulate models of the real world at highest detail, robustness, and efficiency.
-    </p>
-  </div>
-</div><br> -->
 
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~kanazawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angjoo.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a></b> Assistant Professor at UC Berkeley. Her research focuses on the perception of the dynamic 3D world behind everyday photographs and video. Her lab is interested in developing methods that can learn a structured model of the world from visual observations. She also advises Luma AI.
-    </p>
-  </div>
-</div><br>
-
-<!-- <div class="row">
-  <div class="col-md-12">
-    <a href="https://www.irakemelmacher.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Kemelmacher.jfif" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.irakemelmacher.com/">Ira Kemelmacher-Shlizerman</a></b> Professor at the University of Washington and a Principal Scientist at Google working on human modeling. Her team works
-      on Generative AI imagery, and 3D experiences for Google online shopping, with
-      a recent focus on apparel virtual try-on and 3D shoe spins.
-    </p>
-  </div>
-</div><br> -->
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://justusthies.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/justus-thies.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://justusthies.github.io/">Justus Thies</a></b> Professor at TU Darmstadt. He is interested in marker-less motion capturing of facial performances, human bodies as well as general non-rigid objects. Besides capturing and reconstructing reality, he works on AI-based
-      synthesis techniques that allow for photorealistic image and video synthesis.
-    </p>
-  </div>
-</div><br>
-
-<!-- <div class="row">
-  <div class="col-md-12">
-    <a href="https://www.elor.sites.tau.ac.il/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Hadar2022_JPG.webp" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.elor.sites.tau.ac.il/">Hadar Averbuch-Elor</a></b> Assistant Professor at Tel-Aviv University. Her research interests are in computer graphics and vision, particularly combining
-      pixels with more structured modalities, such as natural language and 3D geometry, for generating multimodal representations that are better suited for handling the full complexity of the visual world.
-    </p>
-  </div>
-</div><br> -->
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://people.csail.mit.edu/ganchuang/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Chuang_Gan.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></b> Assistant Professor at UMass Amherst and a research manager at MIT-IBM Watson AI Lab. The overarching goal of his research is to
-      build a human-like autonomous agents that is capable of sensing, reasoning, and
-      acting in the physical world, with a recent focus on 3D large language models.
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://imatge.upc.edu/web/people/xavier-giro"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/xavier.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://imatge.upc.edu/web/people/xavier-giro">Xavier Giró</a></b> Applied Scientist at Amazon Barcelona, in the team lead by Aleix Martinez and Francesc Moreno-Noguer. Before joining Amazon, he was an associate professor at the Universitat Politecnica de Catalunya (UPC), also in Barcelona. His current research interests focus on image generation, and their automatic quality assessment.
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/reza.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/">Reza Shirvany</a></b> Director of Applied Science at Zalando, leading a multi-disciplinary 
-      team of applied scientists that develop customer facing AI driven
-      products in online Fashion, for example the Zalando Virtual Fitting Room.
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="http://flycooler.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/zhao.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="http://flycooler.com/">Zhao Dong</a></b> Graphics Research Lead at Meta Reality Labs. He leads a team at Meta on computer graphics, aiming at building next-gen human centric computing platform for AR/VR/Metaverse.
-    </p>
-  </div>
-</div><br>
 
 <!--<br>
 <div class="row" id="accepted">
@@ -342,7 +266,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 </div>
 -->
 
-<div class="row" id="organizers">
+<div class="row" id="commitee">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
@@ -557,8 +481,113 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   </div>
 </div>
 {% endif %} -->
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Invited Speakers</h2>
+  </div>
+</div><br>
 
 <!-- <div class="row">
+  <div class="col-md-12">
+    <a href="https://people.mpi-inf.mpg.de/~theobalt/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Christian_Theobalt_stehend.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://people.mpi-inf.mpg.de/~theobalt/">Christian Theobalt</a></b> Professor and the Director of the Visual Computing and AI Department at Max Planck Institute for Informatics. He works in computer vision and graphics, with a focus on 3D shape understanding. His long
+      term vision to develop entirely new ways to capture, represent, synthesize and
+      simulate models of the real world at highest detail, robustness, and efficiency.
+    </p>
+  </div>
+</div><br> -->
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://people.eecs.berkeley.edu/~kanazawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angjoo.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a></b> Assistant Professor at UC Berkeley. Her research focuses on the perception of the dynamic 3D world behind everyday photographs and video. Her lab is interested in developing methods that can learn a structured model of the world from visual observations. She also advises Luma AI.
+    </p>
+  </div>
+</div><br>
+
+<!-- <div class="row">
+  <div class="col-md-12">
+    <a href="https://www.irakemelmacher.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Kemelmacher.jfif" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://www.irakemelmacher.com/">Ira Kemelmacher-Shlizerman</a></b> Professor at the University of Washington and a Principal Scientist at Google working on human modeling. Her team works
+      on Generative AI imagery, and 3D experiences for Google online shopping, with
+      a recent focus on apparel virtual try-on and 3D shoe spins.
+    </p>
+  </div>
+</div><br> -->
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://justusthies.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/justus-thies.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://justusthies.github.io/">Justus Thies</a></b> Professor at TU Darmstadt. He is interested in marker-less motion capturing of facial performances, human bodies as well as general non-rigid objects. Besides capturing and reconstructing reality, he works on AI-based
+      synthesis techniques that allow for photorealistic image and video synthesis.
+    </p>
+  </div>
+</div><br>
+
+<!-- <div class="row">
+  <div class="col-md-12">
+    <a href="https://www.elor.sites.tau.ac.il/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Hadar2022_JPG.webp" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://www.elor.sites.tau.ac.il/">Hadar Averbuch-Elor</a></b> Assistant Professor at Tel-Aviv University. Her research interests are in computer graphics and vision, particularly combining
+      pixels with more structured modalities, such as natural language and 3D geometry, for generating multimodal representations that are better suited for handling the full complexity of the visual world.
+    </p>
+  </div>
+</div><br> -->
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://people.csail.mit.edu/ganchuang/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/Chuang_Gan.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></b> Assistant Professor at UMass Amherst and a research manager at MIT-IBM Watson AI Lab. The overarching goal of his research is to
+      build a human-like autonomous agents that is capable of sensing, reasoning, and
+      acting in the physical world, with a recent focus on 3D large language models.
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://imatge.upc.edu/web/people/xavier-giro"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/xavier.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://imatge.upc.edu/web/people/xavier-giro">Xavier Giró</a></b> Applied Scientist at Amazon Barcelona, in the team lead by Aleix Martinez and Francesc Moreno-Noguer. Before joining Amazon, he was an associate professor at the Universitat Politecnica de Catalunya (UPC), also in Barcelona. His current research interests focus on image generation, and their automatic quality assessment.
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/reza.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://scholar.google.com/citations?user=Y9YnFoUAAAAJ&hl=en/">Reza Shirvany</a></b> Director of Applied Science at Zalando, leading a multi-disciplinary 
+      team of applied scientists that develop customer facing AI driven
+      products in online Fashion, for example the Zalando Virtual Fitting Room.
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="http://flycooler.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/zhao.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="http://flycooler.com/">Zhao Dong</a></b> Graphics Research Lead at Meta Reality Labs. He leads a team at Meta on computer graphics, aiming at building next-gen human centric computing platform for AR/VR/Metaverse.
+    </p>
+  </div>
+</div><br>
+
+
+
+
+
+
+
+
+
+
+<div class="row">
   <div class="col-xs-12">
     <h2>Reference</h2>
   </div>
@@ -590,10 +619,10 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
       [11] Pu Li, Weize Quan, Jianwei Guo, Dong-Ming Yan, Layout-aware Single-image Document Flattening, ACM TOG, 2023.
     </p>
   </div>
-</div> -->
+</div>
 
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12">
     <h2>Reference</h2>
   </div>
@@ -613,7 +642,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
     <div style="margin-bottom: 8px;">[10] Floor Verhoeven, Tanguy Magne, Olga Sorkine-Hornung, UVDoc: Neural Grid-based Document Unwarping, SIGGRAPH, 2023.</div>
     <div style="margin-bottom: 0;">[11] Pu Li, Weize Quan, Jianwei Guo, Dong-Ming Yan, Layout-aware Single-image Document Flattening, ACM TOG, 2023.</div>
   </div>
-</div>
+</div> -->
 
 
 <br>
