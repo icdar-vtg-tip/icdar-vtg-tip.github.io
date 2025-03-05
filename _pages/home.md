@@ -63,7 +63,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Schedule</h2>
-    <p>All times in Italy Time (UTC+02:00)</p>
+    <p>All times in Beijing Time (UTC+08:00)</p>
   </div>
 </div>
 
@@ -72,60 +72,39 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
      <table class="table table-striped">
       <tbody>
         <tr>
-          <td>9:00am - 9:05am</td>
-          <td>Welcome and introduction</td>
+          <td>13:50- 14:00</td>
+          <td>Opening Remarks</td>
           <td></td>
         </tr>
         <tr>
-          <td>9:05am - 9:35am</td>
-          <td>Justus Thies
+          <td>14:00 – 14:40</td>
+          <td>Dr.A
           <br/>
-          <i>Title: Multi-modal 3D Human Analysis and Synthesis</i>
+          <i>Invited Talk 1 : AAAA</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>9:35am - 10:05am</td>
-          <td>Zhao Dong
+          <td>14:40-15:20</td>
+          <td>Prof.B
           <br/>
-          <i>Title: Democratizing Digital Twins: Path to Frictionless 3D Digital Twin Creation for Everyone</i>
+          <i>Invited Talk 2 : BBB</i>
           </td>
           <td></td>
         </tr>
         <tr>
-          <td>10:05am - 10:35am</td>
-          <td>Xavier Giró
-          <br/>
-          <i>Title: Image Generation at Scale</i>
-          </td>
+          <td>15:20-16:00</td>
+          <td>Contributed Talks (best/ runner-up paper talks)</td>
           <td></td>
         </tr>
         <tr>
-          <td>10:35am - 11:00am</td>
+          <td>16:00 – 16:20</td>
           <td>Coffee break</td>
           <td></td>
         </tr>
         <tr>
-          <td>11:00am - 11:30am</td>
-          <td>Angjoo Kanazawa
-          <br/>
-          <i>Title: Scaling 3D Capture and Latest Updates on nerfstudio/gsplat</i>
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>11:30am - 12:00pm</td>
-          <td>Reza Shirvany
-          <br/>
-          <i>Title: Reshaping Fashion: 3D and Generative AI Solutions for Perfect Size and Fit</i>
-          </td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>12:00pm - 12:30pm</td>
-          <td>Chuang Gan
-          <br/>
-          <i>Title: Building 3D World Models for Embodied General Intelligence</i>
+          <td>16:20 – 17:40</td>
+          <td>Poster or oral Session
           </td>
           <td></td>
         </tr>
