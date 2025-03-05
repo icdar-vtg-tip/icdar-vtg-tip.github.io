@@ -517,27 +517,21 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 </div><br>
 
 
-<div class="row mt-4">
+<div class="row">
   <div class="col-md-12">
-    <p class="lead">
-      <b>Keynote Lecture: Real-Time Neural Reconstruction in Digital Twin Systems</b>
+    <a href="https://justusthies.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/justus-thies.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://justusthies.github.io/">BBBBB</a></b> Professor at TU Darmstadt. He is interested in marker-less motion capturing of facial performances, human bodies as well as general non-rigid objects. Besides capturing and reconstructing reality, he works on AI-based
+      synthesis techniques that allow for photorealistic image and video synthesis.
     </p>
-    <p class="abstract-text">
-      <b>Abstract:</b> Emerging techniques in neural radiance fields enable photorealistic 3D scene synthesis from multi-view captures. This lecture will demonstrate our framework achieving 30ms latency for dynamic object reconstruction, integrating differentiable physics simulation with neural rendering pipelines. Key innovations include a hybrid representation combining implicit surfaces with parametric models for deformable objects.
+    <p>
+      <b>Title: </b> A Survey on AAAAA
+    </p>
+    <p>
+      <b>Abstract: </b> Emerging techniques in neural radiance fields enable photorealistic 3D scene synthesis from multi-view captures. This lecture will demonstrate our framework achieving 30ms latency for dynamic object reconstruction, integrating differentiable physics simulation with neural rendering pipelines. Key innovations include a hybrid representation combining implicit surfaces with parametric models for deformable objects.
     </p>
   </div>
-</div>
-
-<div class="row profile-section mt-4">
-  <div class="col-md-12">
-    <a href="https://justusthies.github.io/" class="float-left mr-4">
-      <img class="people-pic" src="{{ "/static/img/people/justus-thies.jpg" | prepend:site.baseurl }}" alt="Professor BBBBB">
-    </a>
-    <p class="profile-text">
-      <b>Prof. BBBBB</b>, Chair of Visual Computing at TU Darmstadt. Leading researcher in neural reconstruction pipelines with 15+ years experience. Developed the first real-time facial capture system using consumer RGB-D sensors (CVPR 2016 Best Paper). Current work focuses on unified neural-physical simulation frameworks, with applications in medical imaging and virtual production.
-    </p>
-  </div>
-</div>
+</div><br>
 
 
 <br>
