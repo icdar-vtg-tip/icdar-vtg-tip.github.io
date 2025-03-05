@@ -517,76 +517,27 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 </div><br>
 
 
-<!-- 标题部分 -->
-<div class="row header-section mt-4">
+<div class="row mt-4">
   <div class="col-md-12">
-    <h1 class="lecture-title">Keynote Lecture Series</h1>
-    <h3 class="lecture-subtitle">Digital Twins in 3D Reconstruction</h3>
-  </div>
-</div>
-
-<!-- 摘要部分 -->
-<div class="row abstract-section mt-5">
-  <div class="col-md-12">
-    <h4 class="section-title">Lecture Abstract</h4>
-    <p class="abstract-content">
-      This presentation explores cutting-edge applications of digital twin technology in 3D reconstruction. We will demonstrate real-time dynamic object modeling using multi-view camera arrays enhanced by deep learning architectures. Key innovations include surface reconstruction optimization through Neural Radiance Fields (NeRF) and virtual scene interactivity via physics engine integration. Recent advancements in high-fidelity facial expression capture and cloth simulation will be showcased, highlighting our breakthrough in reducing computational latency by 40% compared to conventional methods.
+    <p class="lead">
+      <b>Keynote Lecture: Real-Time Neural Reconstruction in Digital Twin Systems</b>
+    </p>
+    <p class="abstract-text">
+      <b>Abstract:</b> Emerging techniques in neural radiance fields enable photorealistic 3D scene synthesis from multi-view captures. This lecture will demonstrate our framework achieving 30ms latency for dynamic object reconstruction, integrating differentiable physics simulation with neural rendering pipelines. Key innovations include a hybrid representation combining implicit surfaces with parametric models for deformable objects.
     </p>
   </div>
 </div>
 
-<!-- 个人信息部分 -->
-<div class="row profile-section mt-5">
+<div class="row profile-section mt-4">
   <div class="col-md-12">
-    <a href="https://justusthies.github.io/" class="profile-link">
-      <img class="people-pic float-left mr-5" src="{{ "/static/img/people/justus-thies.jpg" | prepend:site.baseurl }}">
+    <a href="https://justusthies.github.io/" class="float-left mr-4">
+      <img class="people-pic" src="{{ "/static/img/people/justus-thies.jpg" | prepend:site.baseurl }}" alt="Professor BBBBB">
     </a>
-    <div class="profile-content">
-      <h4 class="profile-name">
-        <a href="https://justusthies.github.io/">Prof. BBBBB</a>
-      </h4>
-      <p class="profile-description">
-        Chair of Visual Computing at TU Darmstadt. Pioneering researcher in marker-less motion capture systems with 15+ years experience in computer vision. Recipient of the 2022 Eurographics Young Researcher Award. Current research focuses on neural rendering pipelines and cross-modal reality synthesis, with 50+ publications in top-tier conferences including CVPR and SIGGRAPH.
-      </p>
-    </div>
-  </div>
-</div>
-
-<!-- 标题部分 -->
-<div class="row header-section mt-4">
-  <div class="col-md-12">
-    <h1 class="lecture-title">Keynote Lecture Series</h1>
-    <h3 class="lecture-subtitle">Digital Twins in 3D Reconstruction</h3>
-  </div>
-</div>
-
-<!-- 摘要部分 -->
-<div class="row abstract-section mt-5">
-  <div class="col-md-12">
-    <h4 class="section-title">Lecture Abstract</h4>
-    <p class="abstract-content">
-      This presentation explores cutting-edge applications of digital twin technology in 3D reconstruction. We will demonstrate real-time dynamic object modeling using multi-view camera arrays enhanced by deep learning architectures. Key innovations include surface reconstruction optimization through Neural Radiance Fields (NeRF) and virtual scene interactivity via physics engine integration. Recent advancements in high-fidelity facial expression capture and cloth simulation will be showcased, highlighting our breakthrough in reducing computational latency by 40% compared to conventional methods.
+    <p class="profile-text">
+      <b>Prof. BBBBB</b>, Chair of Visual Computing at TU Darmstadt. Leading researcher in neural reconstruction pipelines with 15+ years experience. Developed the first real-time facial capture system using consumer RGB-D sensors (CVPR 2016 Best Paper). Current work focuses on unified neural-physical simulation frameworks, with applications in medical imaging and virtual production.
     </p>
   </div>
 </div>
-
-<!-- 个人信息部分 -->
-<div class="row profile-section mt-5">
-  <div class="col-md-12">
-    <a href="https://justusthies.github.io/" class="profile-link">
-      <img class="people-pic float-left mr-5" src="{{ "/static/img/people/justus-thies.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="profile-content">
-      <h4 class="profile-name">
-        <a href="https://justusthies.github.io/">Prof. BBBBB</a>
-      </h4>
-      <p class="profile-description">
-        Chair of Visual Computing at TU Darmstadt. Pioneering researcher in marker-less motion capture systems with 15+ years experience in computer vision. Recipient of the 2022 Eurographics Young Researcher Award. Current research focuses on neural rendering pipelines and cross-modal reality synthesis, with 50+ publications in top-tier conferences including CVPR and SIGGRAPH.
-      </p>
-    </div>
-  </div>
-</div>
-
 
 
 <br>
