@@ -122,7 +122,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
     </table>
   </div>
 </div>
-
+<br>
 
 
 
@@ -132,6 +132,25 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
     <p>Acceptable submission topics may include but are not limited to:</p>
   </div>
 </div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <ol style="line-height: 1.4; margin-top: 15px;">
+      <li style="margin-bottom: 8px;">GANs-based and Diffusion-based models for text image synthesis.</li>
+      <li style="margin-bottom: 8px;">Layout-aware document image generation.</li>
+      <li style="margin-bottom: 8px;">Real-synthetic domain gap analysis.</li>
+      <li style="margin-bottom: 8px;">Text generation model benchmarking.</li>
+      <li style="margin-bottom: 8px;">Image text removal, editing, style transfer.</li>
+      <li style="margin-bottom: 8px;">Shadow, ink, and watermark removal of text image.</li>
+      <li style="margin-bottom: 8px;">Illumination correction, deblurring, and binarization of text image.</li>
+      <li style="margin-bottom: 8px;">Text image super-resolution.</li>
+      <li style="margin-bottom: 8px;">Document image dewarping.</li>
+      <li style="margin-bottom: 8px;">Text segmentation.</li>
+      <li style="margin-bottom: 0;">Tampered text detection.</li>
+    </ol>
+  </div>
+</div>
+
 
 
 
