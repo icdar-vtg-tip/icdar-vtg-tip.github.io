@@ -198,9 +198,9 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   </p>
 
   <ul class="review-rules">
-    <li>Remove all author identifiers (names, affiliations, etc.) from the manuscript</li>
-    <li>Cite previous work in third-person format to avoid identity disclosure</li>
-    <li>Omit acknowledgments section in initial submissions</li>
+    <li class="task-point">Remove all author identifiers (names, affiliations, etc.) from the manuscript</li>
+    <li class="task-point">Cite previous work in third-person format to avoid identity disclosure</li>
+    <li class="task-point">Omit acknowledgments section in initial submissions</li>
   </ul>
 
   <p class="submission-process">
@@ -218,7 +218,10 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 <div class="row">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
-    <p>Submission Deadline: April 15, 2025 <br> Decisions Announced: May 15, 2025 <br> Camera Ready Deadline: June 1, 2025 <br> Workshop: September 20, 2025 </p>
+    <li class="task-point">Submission Deadline: April 15, 2025 </li> 
+    <li class="task-point">Decisions Announced: May 15, 2025 </li> 
+    <li class="task-point">Camera Ready Deadline: June 1, 2025 </li> 
+    <li class="task-point">Workshop: September 20, 2025 </li>
   </div>
 </div><br>
 
