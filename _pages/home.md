@@ -87,7 +87,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>14:00 – 14:40</td>
+          <td>14:00 - 14:40</td>
           <td>Dr.A
           <br/>
           <i>Invited Talk 1 : AAAA</i>
@@ -108,12 +108,12 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>16:00 – 16:20</td>
+          <td>16:00 - 16:20</td>
           <td>Coffee break</td>
           <td></td>
         </tr>
         <tr>
-          <td>16:20 – 17:40</td>
+          <td>16:20 - 17:40</td>
           <td>Poster or oral Session
           </td>
           <td></td>
@@ -189,7 +189,28 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 <div class="row">
   <div class="col-xs-12">
     <h2>Submission</h2>
-    <p>The workshop is open to original papers of theoretical or practical nature. Papers should be formatted to follow the instructions in ICDAR webpage ,<a href="https://www.icdar2025.com/home" title="https://www.icdar2025.com/home">. Papers are limited to 15 pages (not including references). This workshop will follow a double-blind review process. Authors should not include their names and affiliations anywhere in the manuscript. Authors should also ensure that their identity is not revealed in directly by citing their previous work in the third person and omitting acknowledgments until the camera-ready version. Papers have to be submitted via the workshop's CMT submission page. The submission link will be announced soon.<br> At least one author of each accepted paper must register for the workshop, in order to present the paper. For further instructions, please refer to the ICDAR 2025 webpage.</p>
+    <p class="submission-guide">
+    This workshop invites original contributions in both theoretical and applied research domains. 
+    All submissions must adhere to the formatting guidelines specified on the 
+    <a href="https://www.icdar2025.com/home" target="_blank" class="text-primary">ICDAR 2025 official website</a>. 
+    Paper length is limited to <strong>15 pages</strong> (excluding references) and must comply with 
+    our double-blind review requirements:
+  </p>
+
+  <ul class="review-rules">
+    <li>Remove all author identifiers (names, affiliations, etc.) from the manuscript</li>
+    <li>Cite previous work in third-person format to avoid identity disclosure</li>
+    <li>Omit acknowledgments section in initial submissions</li>
+  </ul>
+
+  <p class="submission-process">
+    Submissions will be accepted through the workshop's 
+    <a href="#" class="text-primary">CMT submission portal</a> 
+    (activation date to be announced). At least one author of each accepted paper 
+    must complete workshop registration to present the work. Detailed submission 
+    procedures are available on the 
+    <a href="https://www.icdar2025.com/home" target="_blank" class="text-primary">ICDAR 2025 guidelines portal</a>.
+</p>
   </div>
 </div><br>
 
