@@ -82,7 +82,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>13:50- 14:00</td>
+          <td>13:50 - 14:00</td>
           <td>Opening Remarks</td>
           <td></td>
         </tr>
@@ -95,7 +95,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>14:40-15:20</td>
+          <td>14:40 - 15:20</td>
           <td>Prof.B
           <br/>
           <i>Invited Talk 2 : BBB</i>
@@ -103,7 +103,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>15:20-16:00</td>
+          <td>15:20 - 16:00</td>
           <td>Contributed Talks (best/ runner-up paper talks)</td>
           <td></td>
         </tr>
@@ -154,17 +154,17 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 <div class="row">
   <div class="col-xs-12">
     <ul class="list-unstyled" style="line-height: 1.4; margin-top: 15px;">
-      <li class="task-point">▸ GANs-based and Diffusion-based models for text image synthesis</li>
-      <li class="task-point">▸ Layout-aware document image generation</li>
-      <li class="task-point">▸ Real-synthetic domain gap analysis</li>
-      <li class="task-point">▸ Text generation model benchmarking</li>
-      <li class="task-point">▸ Image text removal, editing, style transfer</li>
-      <li class="task-point">▸ Shadow, ink, and watermark removal of text image</li>
-      <li class="task-point">▸ Illumination correction, deblurring, and binarization of text image</li>
-      <li class="task-point">▸ Text image super-resolution</li>
-      <li class="task-point">▸ Document image dewarping</li>
-      <li class="task-point">▸ Text segmentation</li>
-      <li class="task-point">▸ Tampered text detection</li>
+      <li class="task-point"> GANs-based and Diffusion-based models for text image synthesis</li>
+      <li class="task-point"> Layout-aware document image generation</li>
+      <li class="task-point"> Real-synthetic domain gap analysis</li>
+      <li class="task-point"> Text generation model benchmarking</li>
+      <li class="task-point"> Image text removal, editing, style transfer</li>
+      <li class="task-point"> Shadow, ink, and watermark removal of text image</li>
+      <li class="task-point"> Illumination correction, deblurring, and binarization of text image</li>
+      <li class="task-point"> Text image super-resolution</li>
+      <li class="task-point"> Document image dewarping</li>
+      <li class="task-point"> Text segmentation</li>
+      <li class="task-point"> Tampered text detection</li>
     </ul>
   </div>
 </div><br>
@@ -189,7 +189,23 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 <div class="row">
   <div class="col-xs-12">
     <h2>Submission</h2>
-    <p>The workshop is open to original papers of theoretical or practical nature. Papers should be formatted to follow the instructions in ICDAR webpage https://www.icdar2025.com/home. Papers are limited to 15 pages (not including references). This workshop will follow a double-blind review process. Authors should not include their names and affiliations anywhere in the manuscript. Authors should also ensure that their identity is not revealed in directly by citing their previous work in the third person and omitting acknowledgments until the camera-ready version. Papers have to be submitted via the workshop's CMT submission page. The submission link will be announced soon.<br> At least one author of each accepted paper must register for the workshop, in order to present the paper. For further instructions, please refer to the ICDAR 2025 webpage.</p>
+    <p>The workshop is open to original papers of theoretical or practical nature. Papers should be formatted to follow the instructions in ICDAR webpage ,<a href="https://www.icdar2025.com/home" title="https://www.icdar2025.com/home">. Papers are limited to 15 pages (not including references). This workshop will follow a double-blind review process. Authors should not include their names and affiliations anywhere in the manuscript. Authors should also ensure that their identity is not revealed in directly by citing their previous work in the third person and omitting acknowledgments until the camera-ready version. Papers have to be submitted via the workshop's CMT submission page. The submission link will be announced soon.<br> At least one author of each accepted paper must register for the workshop, in order to present the paper. For further instructions, please refer to the ICDAR 2025 webpage.</p>
+  </div>
+</div><br>
+
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Important Dates</h2>
+    <p>Submission Deadline: April 15, 2025 <br> Decisions Announced: May 15, 2025 <br> Camera Ready Deadline: June 1, 2025 <br> Workshop: September 20, 2025 </p>
+  </div>
+</div><br>
+
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Publication</h2>
+    <p>Accepted papers will be published in the ICDAR 2025 proceedings (workshop).</p>
   </div>
 </div><br>
 
