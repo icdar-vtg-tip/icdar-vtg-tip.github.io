@@ -88,9 +88,9 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
         </tr>
         <tr>
           <td>14:00 - 14:40</td>
-          <td>Dr.A
+          <td>Prof. LIAN, Zhouhui
           <br/>
-          <i>Invited Talk 1 : AAAA</i>
+          <i>Invited Talk 1 : Font Synthesis via Deep Generative Models</i>
           </td>
           <td></td>
         </tr>
