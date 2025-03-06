@@ -551,7 +551,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   <div class="col-md-12">
     <a href="https://www.icst.pku.edu.cn/zlian/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/lianzhouhui.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.icst.pku.edu.cn/zlian/">LIAN, Zhouhui</a></b> Zhouhui Lian is an associate professor at Wangxuan Institute of Computer Technology (WICT), Peking University, China.
+      <b><a href="https://www.icst.pku.edu.cn/zlian/">Prof. LIAN, Zhouhui.</a></b> Zhouhui Lian is an associate professor at Wangxuan Institute of Computer Technology (WICT), Peking University, China.
     </p>
     <p>
       <b>Title: </b>Font Synthesis via Deep Generative Models
