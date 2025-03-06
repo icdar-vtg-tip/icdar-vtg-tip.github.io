@@ -88,17 +88,17 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
         </tr>
         <tr>
           <td>14:00 - 14:40</td>
-          <td>Prof. LIAN, Zhouhui
+          <td>Prof. ZHOU, Wengang
           <br/>
-          <i>Invited Talk 1 : Font Synthesis via Deep Generative Models</i>
+          <i>Invited Talk 1 : </i>
           </td>
           <td></td>
         </tr>
         <tr>
           <td>14:40 - 15:20</td>
-          <td>Prof.B
+          <td>Prof. LIAN, Zhouhui
           <br/>
-          <i>Invited Talk 2 : BBB</i>
+          <i>Invited Talk 2 : Font Synthesis via Deep Generative Models</i>
           </td>
           <td></td>
         </tr>
@@ -389,7 +389,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
     <h2>Program Committee Members (Alphabetical Order)</h2>
     <ul class="list-unstyled">
     <li class="task-point"> CHEN, Zhineng, Fudan University, China </li> 
-    <li class="task-point"> CHENG, Wentao, Nankai University, China </li> 
+    <li class="task-point"> CHENG, Wentao, BNU-HKBU United International College, China </li> 
     <li class="task-point"> FANG, Shancheng, Beijing Yuanshi Technology Company, China </li> 
     <li class="task-point"> GAO, Liangcai, Peking University, China </li> 
     <li class="task-point"> LIAN, Zhouhui, Peking University, China</li> 
