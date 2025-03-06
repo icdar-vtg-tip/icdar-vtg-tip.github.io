@@ -549,16 +549,15 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://justusthies.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/justus-thies.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://www.icst.pku.edu.cn/zlian/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/lianzhouhui.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://justusthies.github.io/">BBBBB</a></b> Professor at TU Darmstadt. He is interested in marker-less motion capturing of facial performances, human bodies as well as general non-rigid objects. Besides capturing and reconstructing reality, he works on AI-based
-      synthesis techniques that allow for photorealistic image and video synthesis.
+      <b><a href="https://www.icst.pku.edu.cn/zlian/">LIAN, Zhouhui</a></b> Zhouhui Lian is an associate professor at Wangxuan Institute of Computer Technology (WICT), Peking University, China.
     </p>
     <p>
-      <b>Title: </b> A Survey on AAAAA
+      <b>Title: </b>Font Synthesis via Deep Generative Models
     </p>
     <p>
-      <b>Abstract: </b> Emerging techniques in neural radiance fields enable photorealistic 3D scene synthesis from multi-view captures. This lecture will demonstrate our framework achieving 30ms latency for dynamic object reconstruction, integrating differentiable physics simulation with neural rendering pipelines. Key innovations include a hybrid representation combining implicit surfaces with parametric models for deformable objects.
+      <b>Abstract: </b>  Font Synthesis via Deep Generative Models
     </p>
   </div>
 </div><br>
