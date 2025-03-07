@@ -414,7 +414,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://cc.nankai.edu.cn/2021/0323/c13619a548854/page.htm"><img class="people-pic" style="float:left;margin-right:50px;width:200px;height:300px;" src="{{ "/static/img/people/zhouyu.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://cc.nankai.edu.cn/2021/0323/c13619a548854/page.htm"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/zhouyu.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://cc.nankai.edu.cn/2021/0323/c13619a548854/page.htm">Prof. ZHOU, Yu.</a></b> Yu Zhou holds the BSc, MSc and PhD degrees in computer science from Harbin Institute of Technology. As a professor and a PhD supervisor in college of computer science, Nankai University, his research interests include computer vision and deep learning, with a special interest in visual text processing, detection, recognition and understanding. He served as AC, SPC, and PC members of CVPR, ICCV, ECCV, NeurIPS, ICDAR, and etc, and reviewers of TPAMI, TIP, and etc. He has published over 80 papers in peer-reviewed journals and conferences including CVPR, ICCV, NeurIPS, TMM, TNNLS, and etc, and the paper PIMNet has been selected as the best paper candidate in ACM MM 2021.
     </p>
@@ -425,7 +425,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://teacher.njust.edu.cn/wlkjaq/cgy/list.htm"><img class="people-pic" style="float:left;margin-right:50px;width:200px;height:300px;" src="{{ "/static/img/people/zenggangyan.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://teacher.njust.edu.cn/wlkjaq/cgy/list.htm"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/zenggangyan.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://teacher.njust.edu.cn/wlkjaq/cgy/list.htm">Prof. ZENG, Gangyan.</a></b> Gangyan Zeng is with the School of Cyber Science and Engineering, Nanjing University of Science and Technology. She received the B.S. and Ph.D. degrees in information and communication engineering from the Communication University of China, in 2018 and 2023, respectively. From 2020 to 2023, she was a visiting student at the Institute of Information Engineering, Chinese Academy of Sciences. Her primary research interests include computer vision and multimodal intelligence, with a particular focus on the analysis and understanding of scene text. She has published over 10 papers in journals and conferences including ACM MM, AAAI, and Pattern Recognition. She has also received several rewards in the field of document analysis such as the second runner-up at the 2020 CVPR DocVQA Challenge.
     </p>
@@ -438,7 +438,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://faculty.ustc.edu.cn/xiehongtao/zh_CN/index.htm"><img class="people-pic" style="float:left;margin-right:50px;width:200px;height:300px;" src="{{ "/static/img/people/xiehongtao.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://faculty.ustc.edu.cn/xiehongtao/zh_CN/index.htm"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/xiehongtao.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://faculty.ustc.edu.cn/xiehongtao/zh_CN/index.htm">Prof. XIE, Hongtao.</a></b> Hongtao Xie is currently a Professor at the School of Information Science and Technology, University of Science and Technology of China. He is a recipient of the National Excellent Science Fund and is recognized as an outstanding member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences. Additionally, he is a member of the Chinese Academy of Sciences’ Network Space Security Expert Group. He is engaged in research in the field of artificial intelligence and multimedia content security, including visual content recognition and inference, cross-model recognition of scene text and images, cross-modal content analysis and understanding, intelligent content generation, and security. He has published over 80 academic papers as the first or corresponding author in top international journals and conferences, including IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI), IEEE Transactions on Image Processing (IEEE-TIP), IEEE Transactions on Knowledge and Data Engineering (IEEE-TKDE), NeurIPS (NIPS), International Conference on Computer Vision (ICCV), and Conference on Computer Vision and Pattern Recognition (CVPR). Among these publications, four have been highly cited according to the Essential Science Indicators (ESI), three are considered hot-topic papers, and two have received the Best Paper Award at conferences.
     </p>
@@ -451,7 +451,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://scce.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2018-04-12/62.html"><img class="people-pic" style="float:left;margin-right:50px;width:200px;height:300px;" src="{{ "/static/img/people/yinxucheng.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://scce.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2018-04-12/62.html"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/yinxucheng.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://scce.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2018-04-12/62.html">Prof. YIN, Xu-Cheng.</a></b> Xu-Cheng Yin is a full professor of Department of Computer Science and Technology, and the dean of School of Computer and Communication Engineering, University of Science and Technology Beijing, China. He received the B.Sc. and M.Sc. degrees in computer science from the University of Science and Technology Beijing, China, in 1999 and 2002, respectively, and the Ph.D. degree in pattern recognition and intelligent systems from the Institute of Automation, Chinese Academy of Sciences, in 2006. He was a visiting professor in the College of Information and Computer Sciences, University of Massachusetts Amherst, USA, for three times (Jan 2013 to Jan 2014, Jul 2014 to Aug 2014, and Jul 2016 to Sep 2016). His research interests include pattern recognition, document analysis and recognition, computer vision. He has published more than 100 academic papers (IEEE T-PAMI, IEEE T-IP, CVPR, ICDAR, etc.). From 2013 to 2019, his team had won the first place of a series of text detection and recognition competition tasks for 15 times in ICDAR Robust Reading Competition.
     </p>
