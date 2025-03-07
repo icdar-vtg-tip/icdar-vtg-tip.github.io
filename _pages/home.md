@@ -546,6 +546,23 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   </div>
 </div><br>
 
+<div class="row">
+  <div class="col-md-12">
+    <a href="http://staff.ustc.edu.cn/~zhwg/index.html"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/zhouwengang.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="http://staff.ustc.edu.cn/~zhwg/index.html">Prof. ZHOU, Wengang.</a></b>
+    </p>
+    <p>
+      <b>Title: </b> 
+    </p>
+    <p>
+      <b>Abstract: </b>   
+    </p>
+  </div>
+</div><br>
+
+
+
 
 <div class="row">
   <div class="col-md-12">
