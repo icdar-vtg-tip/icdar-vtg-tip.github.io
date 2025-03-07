@@ -548,7 +548,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 <div class="row">
   <div class="col-md-12">
-    <a href="http://staff.ustc.edu.cn/~zhwg/index.html"><img class="people-pic" style="float:left;margin-right:50px;width:200px;height:300px;" src="{{ "/static/img/people/zhouwengang.jpg" | prepend:site.baseurl }}"></a>
+    <a href="http://staff.ustc.edu.cn/~zhwg/index.html"><img class="people-pic" style="float:left;margin-right:50px;width:150px;height:300px;" src="{{ "/static/img/people/zhouwengang.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="http://staff.ustc.edu.cn/~zhwg/index.html">Prof. ZHOU, Wengang.</a></b> Wengang Zhou is a professor of EEIS Department, University of Science and Technology of China.
     </p>
@@ -566,7 +566,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.icst.pku.edu.cn/zlian/"><img class="people-pic" style="float:left;margin-right:50px;width:200px;height:300px;" src="{{ "/static/img/people/lianzhouhui.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://www.icst.pku.edu.cn/zlian/"><img class="people-pic" style="float:left;margin-right:50px;width:150px;height:300px;" src="{{ "/static/img/people/lianzhouhui.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.icst.pku.edu.cn/zlian/">Prof. LIAN, Zhouhui.</a></b> Zhouhui Lian is an associate professor at Wangxuan Institute of Computer Technology (WICT), Peking University, China.
     </p>
