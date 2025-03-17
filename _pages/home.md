@@ -231,7 +231,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 <div class="row">
   <div class="col-xs-12">
     <h2>Publication</h2>
-    <p>Accepted papers will be published in the ICDAR 2025 proceedings (workshop).</p>
+    <p>Accepted papers will be published in the ICDAR 2025 workshop proceedings.</p>
   </div>
 </div><br>
 
