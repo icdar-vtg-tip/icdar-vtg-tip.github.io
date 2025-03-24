@@ -205,9 +205,8 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
   <p class="submission-process">
     Submissions will be accepted through the workshop's 
-    <a href="#" class="text-primary">CMT submission portal</a> 
-    (activation date to be announced). At least one author of each accepted paper 
-    must complete workshop registration to present the work. Detailed submission 
+    <a href="https://cmt3.research.microsoft.com/VTGTIP2025/Submission/Index" class="text-primary">CMT submission portal</a>. 
+    At least one author of each accepted paper must complete workshop registration to present the work. Detailed submission 
     procedures are available on the 
     <a href="https://www.icdar2025.com/home" target="_blank" class="text-primary">ICDAR 2025 guidelines portal</a>.
 </p>
