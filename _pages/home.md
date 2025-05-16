@@ -218,9 +218,9 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
   <div class="col-xs-12">
     <h2>Important Dates</h2>
     <ul class="list-unstyled">
-    <li class="task-point">Submission Deadline: May 28, 2025 </li> 
-    <li class="task-point">Decisions Announced: June 13, 2025 </li> 
-    <li class="task-point">Camera Ready Deadline: June 20, 2025 </li> 
+    <li class="task-point">Submission Deadline: June 13, 2025 </li> 
+    <li class="task-point">Decisions Announced: July 6, 2025 </li> 
+    <li class="task-point">Camera Ready Deadline: July 20, 2025 </li> 
     <li class="task-point">Workshop: September 20, 2025 </li>
     </ul>
   </div>
