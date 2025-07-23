@@ -402,6 +402,49 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 
 
+<div class="row" id="speakers">
+  <div class="col-xs-12">
+    <h2>Invited Speakers</h2>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="http://staff.ustc.edu.cn/~zhwg/index.html"><img class="people-pic" style="float:left;margin-right:50px;width:150px;height:300px;" src="{{ "/static/img/people/zhouwengang.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="http://staff.ustc.edu.cn/~zhwg/index.html">Prof. ZHOU, Wengang.</a></b> Wengang Zhou is a Professor and Ph.D. Supervisor at the School of Information Science and Technology, University of Science and Technology of China. His research interests include multimedia information retrieval, computer vision, and machine gaming. He has published over 100 papers in IEEE Transactions and CCF-A ranked conferences, accumulating over 20,000 Google Scholar citations with an h-index of 64. He is a recipient of the National Natural Science Foundation of China for Excellent Young Scholars and serves as an Editorial Board Member and Lead Guest Editor for IEEE Transactions on Multimedia. He has led several major research projects, including the Major Project of the Ministry of Science and Technology and the Key Project of the National Natural Science Foundation of China Joint Fund. He has been awarded the First Prize of the Wu Wenjun Artificial Intelligence Science and Technology Progress Award, the Second Prize of the Natural Science Award by the CCIG, and the Outstanding Mentor Award by the Chinese Academy of Sciences. He has been chosen as an Outstanding Member of the CAS Youth Innovation Promotion Association and is a recipient of the Youth Talent Support Program by the China Association for Science and Technology. The Ph.D. students he supervised have received the CAS Outstanding Doctoral Dissertation Award and the CCIG Outstanding Doctoral Dissertation Award.
+    </p>
+    <p>
+      <b>Title: </b> 
+    </p>
+    <p>
+      <b>Abstract: </b>   
+    </p>
+  </div>
+</div><br>
+
+
+
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://www.icst.pku.edu.cn/zlian/"><img class="people-pic" style="float:left;margin-right:50px;width:150px;height:300px;" src="{{ "/static/img/people/lianzhouhui.jpg" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://www.icst.pku.edu.cn/zlian/">Prof. LIAN, Zhouhui.</a></b> Zhouhui Lian is an associate professor at Wangxuan Institute of Computer Technology (WICT), Peking University, China.
+    </p>
+    <p>
+      <b>Title: </b>Font Synthesis via Deep Generative Models
+    </p>
+    <p>
+      <b>Abstract: </b>  Font Synthesis via Deep Generative Models
+    </p>
+  </div>
+</div><br>
+
+
+<br>
+
+
 <div class="row">
   <div class="col-xs-12">
     <h2>Short CV of the Workshop Chairs</h2>
@@ -539,47 +582,6 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 
 
-<div class="row" id="speakers">
-  <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="http://staff.ustc.edu.cn/~zhwg/index.html"><img class="people-pic" style="float:left;margin-right:50px;width:150px;height:300px;" src="{{ "/static/img/people/zhouwengang.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="http://staff.ustc.edu.cn/~zhwg/index.html">Prof. ZHOU, Wengang.</a></b> Wengang Zhou is a Professor and Ph.D. Supervisor at the School of Information Science and Technology, University of Science and Technology of China. His research interests include multimedia information retrieval, computer vision, and machine gaming. He has published over 100 papers in IEEE Transactions and CCF-A ranked conferences, accumulating over 20,000 Google Scholar citations with an h-index of 64. He is a recipient of the National Natural Science Foundation of China for Excellent Young Scholars and serves as an Editorial Board Member and Lead Guest Editor for IEEE Transactions on Multimedia. He has led several major research projects, including the Major Project of the Ministry of Science and Technology and the Key Project of the National Natural Science Foundation of China Joint Fund. He has been awarded the First Prize of the Wu Wenjun Artificial Intelligence Science and Technology Progress Award, the Second Prize of the Natural Science Award by the CCIG, and the Outstanding Mentor Award by the Chinese Academy of Sciences. He has been chosen as an Outstanding Member of the CAS Youth Innovation Promotion Association and is a recipient of the Youth Talent Support Program by the China Association for Science and Technology. The Ph.D. students he supervised have received the CAS Outstanding Doctoral Dissertation Award and the CCIG Outstanding Doctoral Dissertation Award.
-    </p>
-    <p>
-      <b>Title: </b> 
-    </p>
-    <p>
-      <b>Abstract: </b>   
-    </p>
-  </div>
-</div><br>
-
-
-
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="https://www.icst.pku.edu.cn/zlian/"><img class="people-pic" style="float:left;margin-right:50px;width:150px;height:300px;" src="{{ "/static/img/people/lianzhouhui.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.icst.pku.edu.cn/zlian/">Prof. LIAN, Zhouhui.</a></b> Zhouhui Lian is an associate professor at Wangxuan Institute of Computer Technology (WICT), Peking University, China.
-    </p>
-    <p>
-      <b>Title: </b>Font Synthesis via Deep Generative Models
-    </p>
-    <p>
-      <b>Abstract: </b>  Font Synthesis via Deep Generative Models
-    </p>
-  </div>
-</div><br>
-
-
-<br>
 
 
 
