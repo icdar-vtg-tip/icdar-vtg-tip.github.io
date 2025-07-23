@@ -367,39 +367,6 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 </div>
 -->
 
-<div class="row" id="committee">
-  <div class="col-xs-12">
-    <h2>Workshop Chairs</h2>
-    <ul class="list-unstyled">
-    <li class="task-point"> ZHOU, Yu, Nankai University, China </li> 
-    <li class="task-point"> ZENG, Gangyan, Nanjing University of Science and Technology, China </li> 
-    <li class="task-point"> XIE, Hongtao, University of Science and Technology of China, China </li> 
-    <li class="task-point"> YIN, Xu-Cheng, University of Science and Technology Beijing, China </li> 
-    </ul>
-  </div>
-</div><br>
-
-
-
-
-
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Program Committee Members (Alphabetical Order)</h2>
-    <ul class="list-unstyled">
-    <li class="task-point"> CHEN, Zhineng, Fudan University, China </li> 
-    <li class="task-point"> CHENG, Wentao, BNU-HKBU United International College, China </li> 
-    <li class="task-point"> FANG, Shancheng, Beijing Yuanshi Technology Company, China </li> 
-    <li class="task-point"> GAO, Liangcai, Peking University, China </li> 
-    <li class="task-point"> LIAN, Zhouhui, Peking University, China</li> 
-    <li class="task-point"> LIU, Juhua, Wuhan University, China</li> 
-    <li class="task-point"> YANG, Chun, University of Science and Technology Beijing, China</li> 
-    <li class="task-point"> WANG, Yaxing, Nankai University, China</li> 
-    <li class="task-point"> WANG, Yuxin, University of Science and Technology of China, China</li> 
-    </ul>
-  </div>
-</div><br>
-
 
 
 <div class="row" id="speakers">
@@ -443,6 +410,41 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
 
 
 <br>
+
+
+
+<div class="row" id="committee">
+  <div class="col-xs-12">
+    <h2>Workshop Chairs</h2>
+    <ul class="list-unstyled">
+    <li class="task-point"> ZHOU, Yu, Nankai University, China </li> 
+    <li class="task-point"> ZENG, Gangyan, Nanjing University of Science and Technology, China </li> 
+    <li class="task-point"> XIE, Hongtao, University of Science and Technology of China, China </li> 
+    <li class="task-point"> YIN, Xu-Cheng, University of Science and Technology Beijing, China </li> 
+    </ul>
+  </div>
+</div><br>
+
+
+
+
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Program Committee Members (Alphabetical Order)</h2>
+    <ul class="list-unstyled">
+    <li class="task-point"> CHEN, Zhineng, Fudan University, China </li> 
+    <li class="task-point"> CHENG, Wentao, BNU-HKBU United International College, China </li> 
+    <li class="task-point"> FANG, Shancheng, Beijing Yuanshi Technology Company, China </li> 
+    <li class="task-point"> GAO, Liangcai, Peking University, China </li> 
+    <li class="task-point"> LIAN, Zhouhui, Peking University, China</li> 
+    <li class="task-point"> LIU, Juhua, Wuhan University, China</li> 
+    <li class="task-point"> YANG, Chun, University of Science and Technology Beijing, China</li> 
+    <li class="task-point"> WANG, Yaxing, Nankai University, China</li> 
+    <li class="task-point"> WANG, Yuxin, University of Science and Technology of China, China</li> 
+    </ul>
+  </div>
+</div><br>
 
 
 <div class="row">
