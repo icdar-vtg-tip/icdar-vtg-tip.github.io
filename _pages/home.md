@@ -1,4 +1,3 @@
-<img width="432" height="16" alt="image" src="https://github.com/user-attachments/assets/2888ba5c-e6d8-42dd-9b1b-4b88525c832b" />---
 layout: project
 urltitle:  "Visual Text Generation and Text Image Processing"
 title: "Visual Text Generation and Text Image Processing"
