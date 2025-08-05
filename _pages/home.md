@@ -104,7 +104,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
         </tr>
         <tr>
           <td>10:20 - 10:40</td>
-          <td>Coffee break</td>
+          <td>Coffee Break</td>
           <td></td>
         </tr>
         <tr>
@@ -114,7 +114,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
         </tr>
         <tr>
           <td>11:10 - 20:00</td>
-          <td>Oral or Splotlight paper talks
+          <td>Oral and Splotlight Session
           </td>
           <td></td>
         </tr>
