@@ -1,3 +1,4 @@
+---
 layout: project
 urltitle:  "Visual Text Generation and Text Image Processing"
 title: "Visual Text Generation and Text Image Processing"
