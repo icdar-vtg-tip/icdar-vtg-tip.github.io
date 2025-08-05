@@ -1,4 +1,4 @@
----
+<img width="432" height="16" alt="image" src="https://github.com/user-attachments/assets/2888ba5c-e6d8-42dd-9b1b-4b88525c832b" />---
 layout: project
 urltitle:  "Visual Text Generation and Text Image Processing"
 title: "Visual Text Generation and Text Image Processing"
@@ -82,12 +82,12 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>13:50 - 14:00</td>
+          <td>09:00 - 09:10</td>
           <td>Opening Remarks</td>
           <td></td>
         </tr>
         <tr>
-          <td>14:00 - 14:40</td>
+          <td>09:10 - 09:45</td>
           <td>Prof. ZHOU, Wengang
           <br/>
           <i>Invited Talk 1 : </i>
@@ -95,7 +95,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>14:40 - 15:20</td>
+          <td>09:45 - 10:20</td>
           <td>Prof. LIAN, Zhouhui
           <br/>
           <i>Invited Talk 2 : Font Synthesis via Deep Generative Models</i>
@@ -103,18 +103,18 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>15:20 - 16:00</td>
-          <td>Contributed Talks (best/ runner-up paper talks)</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>16:00 - 16:20</td>
+          <td>10:20 - 10:40</td>
           <td>Coffee break</td>
           <td></td>
         </tr>
         <tr>
-          <td>16:20 - 17:40</td>
-          <td>Poster or oral Session
+          <td>10:40 - 11:10</td>
+          <td>Contributed Talks (best/ runner-up paper talks)</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>11:10 - 20:00</td>
+          <td>Oral or Splotlight paper talks
           </td>
           <td></td>
         </tr>
@@ -221,7 +221,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
     <li class="task-point">Submission Deadline: June 30, 2025 </li> 
     <li class="task-point">Decisions Announced: July 20, 2025 </li> 
     <li class="task-point">Camera Ready Deadline: July 31, 2025 </li> 
-    <li class="task-point">Workshop: September 20, 2025 </li>
+    <li class="task-point">Workshop: September 21, 2025 </li>
     </ul>
   </div>
 </div><br>
