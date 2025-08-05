@@ -113,7 +113,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>11:10 - 20:00</td>
+          <td>11:10 - 12:00</td>
           <td>Oral and Splotlight Session
           </td>
           <td></td>
