@@ -108,13 +108,13 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td></td>
         </tr>
         <tr>
-          <td>10:40 - 11:10</td>
-          <td>Contributed Talks (best/ runner-up paper talks)</td>
+          <td>10:40 - 11:40</td>
+          <td>Oral Session</td>
           <td></td>
         </tr>
         <tr>
-          <td>11:10 - 12:00</td>
-          <td>Oral and Splotlight Session
+          <td>11:40 - 12:00</td>
+          <td>Splotlight Session
           </td>
           <td></td>
         </tr>
