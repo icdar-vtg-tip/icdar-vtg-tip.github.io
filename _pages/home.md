@@ -385,7 +385,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
       <b>Title: </b> Restoration and Understanding of Document Images
     </p>
     <p>
-      <b>Abstract: </b>   
+      <b>Abstract: </b>   The restoration and understanding of document images are two core tasks in intelligent document processing systems. Document restoration aims to transform deformed or curved captured documents into flat and regular images, while document understanding focuses on the automated analysis and semantic extraction of document content. In terms of document restoration, we propose two innovative approaches: the first is based on a progressive learning strategy, achieving high-precision deformation correction through iterative optimization; the second addresses the limitation of existing methods in effectively restoring documents with incomplete boundaries by modeling their deformation process and incorporating a multi-scale attention mechanism, significantly enhancing the model's generalization capability in complex scenarios. For document understanding, tackling challenges such as high resolution, multi-page structures, and complex tables commonly found in document images, we have developed a series of document understanding models based on a multimodal large-scale architecture—DocPedia, DocR1, and TabPedia. These models enable end-to-end semantic parsing of document images, moving beyond the limitations of the traditional “recognition first, analysis later” pipeline, and achieving more efficient and accurate document structure understanding and information extraction.
     </p>
   </div>
 </div><br>
