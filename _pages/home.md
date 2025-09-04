@@ -90,7 +90,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td>09:10 - 09:45</td>
           <td>Prof. ZHOU, Wengang
           <br/>
-          <i>Invited Talk 1 : </i>
+          <i>Invited Talk 1 : Restoration and Understanding of Document Images</i>
           </td>
           <td></td>
         </tr>
