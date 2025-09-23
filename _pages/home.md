@@ -123,6 +123,7 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td>Announcement of Best Paper Awards (No Distinction in Order)
           <br/>
           <i>Modular OCR Using Web Scraping Data</i>
+          <br/>
           <i>DAA-Net: Dynamic Adaptive Aggregation Network for Document Image Rectification</i>
           </td>
           <td></td>
