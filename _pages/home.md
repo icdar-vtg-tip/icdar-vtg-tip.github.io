@@ -122,9 +122,9 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           <td>12:00 - 12:10</td>
           <td>Announcement of Best Paper Awards (No Distinction in Order)
           <br/>
-          <i>Modular OCR Using Web Scraping Data</i>
+          <i>Title: Modular OCR Using Web Scraping Data, Authors: Guy Gisfan, Eli O. David, and Nathan S. Netanyahu</i>
           <br/>
-          <i>DAA-Net: Dynamic Adaptive Aggregation Network for Document Image Rectification</i>
+          <i>Title: DAA-Net: Dynamic Adaptive Aggregation Network for Document Image Rectification, Authors: Xinyue Zhou, Nanfeng Jiang, Da-Han Wang, and Wang Man</i>
           </td>
           <td></td>
         </tr>
