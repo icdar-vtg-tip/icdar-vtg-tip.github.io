@@ -118,6 +118,15 @@ description: "Website for the Workshop on Visual Text Generation and Text Image 
           </td>
           <td></td>
         </tr>
+        <tr>
+          <td>12:00 - 12:10</td>
+          <td>Announcement of Best Paper Awards (No Distinction in Order)
+          <br/>
+          <i>Modular OCR Using Web Scraping Data</i>
+          <i>DAA-Net: Dynamic Adaptive Aggregation Network for Document Image Rectification</i>
+          </td>
+          <td></td>
+        </tr>
       </tbody>
     </table>
   </div>
